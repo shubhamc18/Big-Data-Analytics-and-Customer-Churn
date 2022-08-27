@@ -19,9 +19,10 @@ Here we are selecting the important attributes that will be used for model build
 We are selecting 10 attributes based on the proportion of churn and non-churn customers where we notice a significant difference. 
 These attributes are page, artists, gender, sessionid, registration, length and playlist.
 
-# Model Deployment
+# Model Development
 We are building supervised learning models as know the outcome of our results. 
 We have used build logistic regression and gradient boosting model to predict the churn of customers and comparing their accuracy and F-score
+
 
 # Results:
 Most of the customers have churned because they didn’t like the songs and the songs recommended to them by them by their friends
